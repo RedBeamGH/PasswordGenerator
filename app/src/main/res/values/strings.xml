@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="button_home">Generate password</string>
+    <string name="button_reset">Reset password</string>
+</resources>
